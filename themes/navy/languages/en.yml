@@ -24,6 +24,7 @@ sidebar:
     delegate_forging: Delegate & forging
     command_line: Command line interface
     http: HTTP interface
+    issue_assets: Issue assets
 
   whitepaper:
     catalog: catalog
@@ -44,3 +45,4 @@ sidebar:
       catalog: catalog
       asch: Asch F&Q
       cctime: CCTime F&Q
+      xctAirdrop: CCTime Airdrop F&Q

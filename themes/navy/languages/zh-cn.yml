@@ -25,6 +25,7 @@ sidebar:
     delegate_forging: 受托人锻造及收益机制
     command_line: 命令行客户端
     http: HTTP接口
+    issue_assets: 发行资产
 
   whitepaper:
     catalog: 目录
@@ -45,3 +46,4 @@ sidebar:
     catalog: 目录
     asch: Asch 问答
     cctime: CCTime 问答
+    xctAirdrop: CCTime 空投问答

@@ -4,6 +4,7 @@ docs:
     delegate_forging: asch_delegate_forging.html
     command_line: asch_cli_usage.html
     http: asch_http_interface.html
+    issue_assets: asch_issue_assets.html
 
 whitepaper:
    catalog:
@@ -24,5 +25,5 @@ help:
   catalog:
     asch: index.html
     cctime: cctime.html
-
+    xctAirdrop: xct_airdrop.html
 

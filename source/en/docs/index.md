@@ -5,7 +5,8 @@ title: Asch Node Installation Guide
 - Linux system required
 - Public IP address required
 - Ubuntu 14.04 64bit OS recommended
-- Above 1Gb RAM recommended
+- Above 2 CPU recommended
+- Above 2 Gb RAM recommended
 - Above 2Mb broadwidth recommended
 
 # 2. Installation

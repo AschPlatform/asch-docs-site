@@ -87,7 +87,6 @@ Asch现在可以在3个交易平台进行交易，分别是：
 [聚币网](https://www.jubi.com/coin/xas/)
 [币交所](https://www.biduobao.com/market-xas.html)
 [币多宝](https://www.coinvc.com/market/trade/xas)
-[cryptodao](https://cryptodao.com/)
 [多元网](https://www.dyszsp.com/)
 [币贝网](https://bitbays.com)
 
@@ -262,12 +261,11 @@ web图形界面大调整（优化）
 2017-06-18 Asch 1.3版本开发完成，进入内测阶段。
 2017-06-19 XAS首次进入coinmarketcap.com全球加密币市值排行前50名。
 2017-06-20 XAS同时上线币交所（coinvc.com）和币多宝（biduobao.com）两个交易平台
-2017-07-01 Asch上线CRYPTODAO交易平台（cryptodao.com/site/index/XAS）
 2017-07-06 Asch上线元宝网交易平台（yuanbao.com/trade/xas2ybc）
 2017-07-18 发布1.3.0版本
 2017-07-25 单青峰应邀参加贵阳区块链ICO行业生态体系建设研讨会
 2017-08-03 ASCH正式加入浙江省区块链技术应用协会，成为协会的正式会员单位
 2017-08-06 中国区块链极客高峰论坛：Asch创始人单青峰侧链技术与区块链2.5
-2017-08-07 阿希（Asch）社区发布了其链下第一个DAPP示范型应用CCTime以及CCT项目白皮书
+2017-08-07 阿希（Asch）社区发布了其链下第一个DAPP示范型应用CCTime以及CCTime项目白皮书
 2017-08-10 阿希官方人员携社区捐款奔赴四川灾区第一线
 

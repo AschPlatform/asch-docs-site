@@ -3,19 +3,9 @@ title: Asch FAQ
 
 # 1 The brief introduction of Asch
 
-The original design purpose of Asch is to reduce the skill threshold for the developers.For example,
-it makes DAPP development and traditional web applications become quite similar by adopting JavaScript
-as an application development language and supporting RDB (Relational Database) to store the transaction data,
-which must be extremely attractive to developers and SMEs (Small and Medium-sized Enterprises).We believe the
-ecosystem of the whole platform will not be developed rapidly unless developers’ productivity could be promoted.
-Asch is also an open platform which is not limited to a particular area, such as finance, document storage,
-copyright proof etc, but providing a series of underlying and abstract APIs which can be combined freely to realize
-various kinds of application. In addition, Asch system inherits and  enhances DPOS(Delegated Proof of Stake) algorithm
-in its consensus mechanism to significantly reduce the probability of block fork and the risk of duplicate payment.
-Most importantly, Asch’s sidechain-is-application mode can not only alleviate the blockchain inflation issue, but also
-make DApp more flexible and characteristic. Asch is a prospective, low-cost, one-stop solution that is surely able to
-be the incubator of next generation decentralized application. The token of Asch is XAS, and the initial amount of
-XAS is 100 million. See Asch official website for details.
+The original design purpose of Asch is to reduce the skill threshold for the developers.For example,it makes DAPP development and traditional web applications become quite similar by adopting JavaScript as an application development language and supporting RDB (Relational Database) to store the transaction data,
+These characteristics must be extremely attractive to developers and SMEs (Small and Medium-sized Enterprises).We believe the development of the ecosystem of the whole platform is highly dependent on the developers’ productivity could be promoted.Asch is also an open platform ,which’s application is not limited to some particular areas, such as finance, document storage,copyright proof etc, but providing a series of underlying and abstract APIs .These APIs can be combined easily to realize various kinds of application. In addition, Asch system inherits and  enhances DPOS(Delegated Proof of Stake) algorithm in its consensus mechanism to significantly reduce the probability of block fork and the risk of duplicate payment.
+Most importantly, Asch’s sidechain-is-application mode can not only alleviate the blockchain inflation issue, but also make DApp more flexible and characteristic. Asch is a prospective, low-cost, one-stop solution that is surely able to be the incubator of next generation decentralized application. The token of Asch is XAS, and the initial amount of XAS is 100 million. See Asch official website for details.
 
 
 
@@ -35,13 +25,9 @@ Official WeChat：
 
 # 3 What is the Asch Wallet?
 
-Please be sure to back up the master password of wallet when you use your Asch wallet. If forget your master password,
-you will never open your wallet. When you input master password, please note the space to avoid getting different
-wallet address.
+Please be sure to back up the master password of wallet when you use your Asch wallet. If forget your master password,you will lose your wallet. When you input master password, please be careful with the space in your password. If not, you will get different wallet address.
 
-Old wallet address of Asch system is digital, later upgraded to letters.  Both can be compatible, but some exchanges
-can not be compatible. So old users should  pay  attention to exchange currency to use new wallet letters address as
-far as possible.
+Old wallet address of Asch system is digital, later upgraded to letter.. They are compatible except some exchanges. So old users should pay attention to exchange currency to use new wallet letters address as more as possible.
 
 Online wallet: http://mainnet.asch.so/
 
@@ -66,44 +52,36 @@ ios钱包
 # 4 What language is used to develop Asch?
 
 Asch platform is developed by Node.js language. There are some underlying developed modules with C or C++ language.
-If there are bottlenecks in performance, you can use C or C ++ to modularize it at all.
-
-If you want to develop Asch platform itself, Node.js is the necessary skill, follow-up to add  SDK of mainstream
-development language like java, python, php, Go etc.
+If the bottlenecks in performance present, we can use C or C ++ to modularize it at all.
+If you want to develop Asch platform, Node.js is the necessary skill. We will  add more languages’ SDK,  such as java, python, php, and Go.
 
 # 5 What frameworks does Asch use?
 
 Asch itself is a framework that is easy for users to develop Dapp of blockchain-level. Because it is developed by Node.
-Js, some existing modules are using, such as express.
+Js, some existing modules are used, such as express.
 
 # 6 What features does Asch have?
 
 1. Support side-chain (cross-chain). Store Dapp data in the side-chain, and then the main chain data will not swell too fast.
 2. Advantages of Node.JS language.
 3. Storage block data of relational database to reduce the difficulty of Dapp development
-4. The speed of block production is fast. Produce a block in every 10 seconds and confirm it fast.
+4. The speed of block production is fast. Producing one block per 10 seconds and confirming it fast.
 5. There will be no bifurcation.
 6. Safe sandbox isolation mechanism
 
 # 7 Why will Asch not bifurcate?
 
-Asch system uses consensus which is based on DPOS,the delegate election system,but on the bottom half of the algorithm
-we use a optimized and variant PBFT algorithm.This algorithm can achieve the consistency of the loyal nodes by the time
-complexity of O(n ^ 2) and message complexity of O(1) at t<n/3 to prevent bifurcation,in the equation t presents the
-number of the Byzantine Failures nodes(any possible problems like network latency,system crash,vicious attack and so on),
-n presents the number of all nodes.
+Asch system uses consensus which is based on DPOS,the delegate election system,but on the bottom half of the algorithm .we use a optimized and variant PBFT algorithm.This algorithm can achieve the consistency of the loyal nodes by the time complexity of O(n ^ 2) and message complexity of O(1) at t<n/3 to prevent bifurcation,in the equation t presents the number of the Byzantine Failures nodes(any possible problems like network latency,system crash,vicious attack and so on),n presents the number of all nodes.
 
 # 8 Can Asch be mined?
 
-Asch uses a non-Pow algorithm, so it can not be mined. But it can be used to obtain the benefit forging by delegators.
+Asch uses a non-Pow algorithm, so it  can’t be mined. But it can be used to obtain the benefit forging by delegators.
 
 Asch use AC1.0 consensus algorithm(a optimized dpos with pbft algorithm),ensure the output of blocks through the delegate system.
 
-Everyone can register to be a delegate,everyone can vote for any delegate,but only the top 101 delegates who get the
-most votes can forge blocks(accounting).Now delegate can get 3.5 XAS as reward for forging one block,and each block
-takes 10 seconds to be forged.
+Everyone can register to be a delegate,everyone can vote for any delegate,but only the top 101 delegates who get the most votes can forge blocks(accounting).Now delegate can get 3.5 XAS as reward for forging one block,and each block takes 10 seconds to be forged.
 
-# 9 How many are the initial circulations of Asch?
+# 9 How much is the initial circulation of Asch?
 
 Asch's initial circulation is 100 million. For details, see the Asch ICO scheme.
 
@@ -133,7 +111,7 @@ Comparision between Asch and ETH
 |Consensus mechanism|DPOS+PBFT Compared to pow,DPOS and PBFT focuses more on decentration. Pow has the problem of calculating force or centralization of miners. Compared with pos,pow’s right to keep accounts is transferred to the trustees, but the shareholders still have the decision-making right, more security and decentralization.|Pow+pos|
 |Smart contract implementation|side-chain. The data is in dapp.|Transaction scripts.  The data is all in the main chain, easily expanding.|
 |Contract language|Native javascript|Solidity is operated on evm.ETH lacks of documents,with little appropriate users and high threshold.|
-|expansibility|The application of side chain and side chain can be downloaded as users needs without causing the main chain expansion.|The surge of Dapp will pose risks to the whole blockchain.|
+|expansibility|The application of side chain and side chain can be downloaded as user needs without causing the main chain expansion.|The surge of Dapp will pose risks to the whole blockchain.|
 |security|The side chain operates independently ,without affecting the main chain.|The Dapp vulnerability will affect the whole blockchain, such as the dao event.|
 |confirmation time of block|10s|15s|
 |TPS|3000|20|
@@ -155,7 +133,6 @@ Now
 [Jubi](https://www.jubi.com/coin/xas/)
 [Bijiaosuo](https://www.biduobao.com/market-xas.html)
 [Biduobao](https://www.coinvc.com/market/trade/xas)
-[cryptodao](https://cryptodao.com/)
 [Duoyuan](https://www.dyszsp.com/)
 [bitbays](https://bitbays.com/)
 
@@ -175,7 +152,7 @@ There are three type of API :
 3、dapp api
 
 # 17 What is the Asch inflation rate?
-The block bonus  will decline by the time,the specific time is based on the height of a block in the future. The block bonus  system starts form 464500, with an initial reward of 3.5 coins, and is reduced every 3 million blocks  in 1 years. After the 15464500 block, bonuses are no longer diminishing, with a slight inflation rate of less than 1.5% a year (relative to the initial amount of 100 million).
+The block bonus  will decrease by the time,the specific time is based on the height of a block in the future. The block bonus  system starts form 464500, with an initial reward of 3.5 coins, and is reduced every 3 million blocks  in 1 years. After the 15464500 block, bonuses are no longer diminishing, with a slight inflation rate of less than 1.5% a year (relative to the initial amount of 100 million).
 The  inflation rate is as follow： (calculated from the 464500 block, because there are block rewards at this time, probably around October 7, 2016)
 
 |Years|inflation rate relieve to last year|Current block bonus sum(ten thousandXAS)|
@@ -214,7 +191,7 @@ Private key and public key generation algorithm: ed25519 encryption
 
 The side chain refers not to Asch as the side chain of the other block chain, but to the Asch that has its own side chain,Dapp.
 
-Currently only use nodejs development, if you want to use Java, python, PHP and other language development, as long as the corresponding SDK can be done, we can try to write, mainly to Asch-js this library written in other languages.
+Currently only nodejs was used for development, if you want to use Java, python, PHP and other language, as long as the corresponding SDK can be done, we can try to write, mainly to Asch-js this library written in other languages.
 
 For convenient to Dapp development, Qingfeng was doing optimization, Asch2.0 will be released.
 The existing documents are as follows:
@@ -238,7 +215,7 @@ There are two main directions: application development and bottom development:
 
 # 23 Asch Dynamics
 
-In Jan. 2016, Asch program was initiated and started.
+In Jan. 2016, Asch program was initiated.
 
 At 18:00, May 22, 2016, Asch began ICO.
 On March 21, published <Bug analyses and solution plans of Lisk sandbox >
@@ -361,8 +338,6 @@ On June 5, 2017, Asch mobile wallet for Android and M version was officially rel
 On June 19, 2017, Asch was first entered into  coinmarketcap.com, and was top 50 in the Global Encryption Coin.
 
 On June 20, 2017, XAS was traded in the two exchange platforms, coinvc.com and biduobao.com at the same time.
-
-Asch was traded in CRYPTODAO Exchange on July 1th, 2017.（cryptodao.com/site/index/XAS）
 
 Asch was traded in YUANBAO Exchange on July 6th, 2017.（yuanbao.com/trade/xas2ybc）
 

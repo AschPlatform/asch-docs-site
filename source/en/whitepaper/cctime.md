@@ -77,7 +77,7 @@ focus on advertising social, copyright or original content. And everyone can use
 
 ## 2.3 Free distribution
 
-Instead of ICO, the tokens are free distribution, allowing more people to hold tokens for free.
+the tokens are free distribution, allowing more people to hold tokens for free.
 
 ## 2.4 Sharing Value
 
@@ -197,7 +197,7 @@ CCTime protocol can still show all non-filtered data.
 
 # 4 Distribution Mechanism
 XCT (current coin) issues limit of 10 billion. The main team reserves 5% tokens, and the remaining 95% will be airdrop
-to blockchain community, without finance and restore the ICO (Initial Crypto-Token Offering) essence.
+to blockchain community.
 
 ## 4.1 Distribution Principle
 

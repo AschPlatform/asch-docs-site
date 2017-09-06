@@ -77,7 +77,7 @@ Everyone can register to be a delegate; everyone can vote for any delegate, but 
 
 # 9 How much is the initial circulation of Asch?
 
-Asch’s initial circulation is 100 million. For details, see the Asch ICO strategies.
+Asch’s initial circulation is 100 million.
 
 # 10 How much is Asch delegates’ returns?
 
@@ -212,19 +212,6 @@ There are two main directions: application development and bottom development:
 
 01/01/2016 Asch program was initiated.
 03/01/2016 The implementation of a predigest algorithm model based on PBFT (prototype of Asch consensus algorithms) to fixe bugs of DPOS algorithm after the bug was analyzed and a simple attacking way was simulated. https://github.com/sqfasd/dpos-pbft/
-03/21/2016 6 pm Asch began ICO and announce its ICO plans:
-Total amount:100 million XAS tokens
-ICO amount:75 million XAS tokens
-Promoter and promotion reward:2 millon XAS tokens
-Early supporter reward:1.5 million XAS tokens
-Application developer reward:6.5 million XAS tokens
-Post-promotion, operations, cooperation fund:5 million XAS tokens
-Reservation for official team:10 million XAS tokens
-Minimum Goal 1000BTC
-Starting time 18:00 May 22, 2016
-Ending time 23:00 June 26, 2016
-ICO Raising was Supported by two ways: Bitcoin and RMB
-06/20/2016 The announcement of the Asch ICO results, which raised a total of 1795.60074911 bitcoin and 479407.87 RMB.
 06/28/2016 4 am The first block of Asch was born.
 06/2016 The implementation of a full version of dpos+pbft algorithm in formal products, and deployed 10 machines to test it. The tests results meet the expectations in security. The whole system will not fork (AC0.5) even under the
 circumstances such as rebooting frequently, broadcasting blocks irregularly, cheating by a small number of delegates.
@@ -234,7 +221,7 @@ circumstances such as rebooting frequently, broadcasting blocks irregularly, che
 08/09/2016 Asch version 0.9.4 released, while the product tends to be stable.
 08/09/2016 The system was upgraded to version 0.9.5 and optimized. In the testnet that combined by 49 nodes, the peak bandwidth was around 600kbps.
 08/11/2016 Consensus Algorithm was upgraded to AC1.0.
-08/16/2016 Asch Mainnet was launched officially. ICO released the token.
+08/16/2016 Asch Mainnet was launched officially.
 09/01/2016 The source code of Asch product officially was published. The source code document: https://github.com/sqfasd/.
 09/08/2016 Asch version 1.0.1 released. The Light Purse went live officially. In addition, unconfirmed transactions were fixed.
 09/15/2016 Asch version 1.1.0 released.
@@ -293,7 +280,7 @@ Fixed the issues submitted by front-end transactions. Fixed the display issues o
 06/20/2017 XAS was listed on two exchange platforms - coinvc.com and biduobao.com.
 07/06/2017 Asch was traded in YUANBAO Exchange（yuanbao.com/trade/xas2ybc）
 07/18/2017 Asch version 1.3.0 released.
-07/25/2017 Qingfeng Shan, the founder of Asch, was invited to the Seminar on the Construction of Blockchain ICO industry ecological system in Guiyang, China
+07/25/2017 Qingfeng Shan, the founder of Asch, was invited to the Seminar on the Construction of Blockchain  industry ecological system in Guiyang, China
 08/03/2017 Asch has joined Blockchain technical application association in Zhengjiang, becoming a full member of the association.
 08/06/2017 Qingfeng Shan delivered a speech on “Side Chain Technology and the Version of Block Chain 2.5” during China Blockchain Geek Summit
 08/07/2017 Asch community has issued the first DAPP demonstration application - CCTime and its white paper

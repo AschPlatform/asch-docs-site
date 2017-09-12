@@ -24,8 +24,6 @@ Official WeChat：
 
 # 3 What is the Asch Wallet?
 
-Please be sure to back up the master password of wallet when you use your Asch wallet. If forget your master password,you will lose your wallet. When you input master password, please be careful with the space in your password. If not, you will get different wallet address.
-
 Old wallet address of Asch system were digitals, later it upgraded to letters. They are compatible except for certain exchanges. Thus, old users should use the new alphabetic adders when withdrawing XAS on exchanges if possible.
 
 Online wallet: http://mainnet.asch.so/

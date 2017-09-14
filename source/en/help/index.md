@@ -128,6 +128,7 @@ Today
 [Duoyuan](https://www.dyszsp.com/)
 [bitbays](https://bitbays.com/)
 [coolcoin](https://www.coolcoin.com/)
+[asdbi](https://www.asdbi.com/)
 
 In the future
 [BTC100](https://www.btc100.cn/)

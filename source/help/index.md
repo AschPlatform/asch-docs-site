@@ -81,13 +81,14 @@ Asch的初始发行量是1亿xas
 
 
 # 14 Asch可以在哪里交易？
-Asch现在可以在3个交易平台进行交易，分别是：
+Asch现在可以在7个交易平台进行交易，分别是：
 [元宝网](https://www.yuanbao.com/trade/xas2cny)
 [聚币网](https://www.jubi.com/coin/xas/)
 [币交所](https://www.biduobao.com/market-xas.html)
 [币多宝](https://www.coinvc.com/market/trade/xas)
 [多元网](https://www.dyszsp.com/)
 [币贝网](https://bitbays.com)
+[coolcoin](https://www.coolcoin.com/)
 
 正准备上的有
 [BTC100](https://www.btc100.cn/)

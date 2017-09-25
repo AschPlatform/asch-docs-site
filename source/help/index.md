@@ -22,7 +22,7 @@ Asch开发者协会群：472708713
 Asch系统以前的钱包地址是数字地址，后面升级为字母地址，两者可以兼容，但部分交易所不兼容，所以老用户要注意交易所提币尽量使用新钱包的字母地址
 浏览器钱包：http://mainnet.asch.so/
 钱包不会用怎么办？
-[小白玩转asch账户必看](http://bbs.asch.so/topic/21/%E5%B0%8F%E7%99%BD%E7%8E%A9%E8%BD%ACasch%E8%B4%A6%E6%88%B7%E5%BF%85%E7%9C%8B)
+[小白玩转asch账户必看](http://bbs.asch.so/topic/450/%E7%8E%A9%E8%BD%ACasch%E8%B4%A6%E6%88%B7%E5%BF%85%E7%9C%8B%E6%95%99%E7%A8%8B)
 [钱包用户须知](http://bbs.asch.so/topic/23/%E9%92%B1%E5%8C%85%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5)
 
 本地钱包（全节点钱包）

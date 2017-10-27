@@ -81,15 +81,14 @@ Asch的初始发行量是1亿xas
 
 
 # 14 Asch可以在哪里交易？
-Asch现在可以在8个交易平台进行交易，分别是：
-[元宝网](https://www.yuanbao.com/trade/xas2cny)
-[聚币网](https://www.jubi.com/coin/xas/)
-[币交所](https://www.biduobao.com/market-xas.html)
-[币多宝](https://www.coinvc.com/market/trade/xas)
-[多元网](https://www.dyszsp.com/)
-[币贝网](https://bitbays.com)
-[coolcoin](https://www.coolcoin.com/)
-[什币网](https://www.asdbi.com/)
+Asch现在可以在7个交易平台进行交易，分别是：
+[chaoex]https://www.chaoex.com
+[coolcoin]https://www.coolcoin.com
+[coinegg]https://www.coinegg.com
+[bit-z]https://www.bit-z.com
+[什币网]https://www.asdbi.com
+[bcex]http://www.bcex.ca
+[kucoin]http://www.kucoin.com
 数字资产投资风险大，强烈建议您在自身能承受的风险范围内参与数字资产投资
 
 正准备上的有
@@ -176,7 +175,6 @@ Asch 目前的工作重点:
 2016-01-01 Asch项目立项启动。
 2016-03-01 分析了DPOS算法的漏洞并且模拟了一个简单的攻击的方法，然后实现了一个简化的PBFT算法模型试图去修复该漏洞（阿希共识协议算法原型）。https://github.com/sqfasd/dpos-pbft/
 2016-03-21 发布《Lisk沙箱漏洞分析及解决方案》文章
-2016-05-01 区块宝成立。
 2016-06-05 在git.oschina.net上初始化Asch代码库。
 2016-06 在正式的产品中实现了完整版dpos+pbft的算法，并且部署了10台机器进行了测试。测试的结果在安全性方面完全符合预期，即经过频繁的重启、不按常规的广播区块、少数受托人联合作弊的情况下，整个系统依然不会分叉（AC0.5）。
 2016-07-13 发布Asch 0.9.1版本。公测正式开始。广大受托人开始参与测试。

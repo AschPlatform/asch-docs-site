@@ -121,14 +121,13 @@ Comparisons between Asch and LISK
 # 14 Where to trade Asch?
 
 Today
-[Yuanbao](https://www.yuanbao.com/trade/xas2cny)
-[Jubi](https://www.jubi.com/coin/xas/)
-[Bijiaosuo](https://www.biduobao.com/market-xas.html)
-[Biduobao](https://www.coinvc.com/market/trade/xas)
-[Duoyuan](https://www.dyszsp.com/)
-[bitbays](https://bitbays.com/)
-[coolcoin](https://www.coolcoin.com/)
-[asdbi](https://www.asdbi.com/)
+[chaoex]https://www.chaoex.com
+[coolcoin]https://www.coolcoin.com
+[coinegg]https://www.coinegg.com
+[bit-z]https://www.bit-z.com
+[asdbi]https://www.asdbi.com
+[bcex]http://www.bcex.ca
+[kucoin]http://www.kucoin.com
 
 In the future
 [BTC100](https://www.btc100.cn/)

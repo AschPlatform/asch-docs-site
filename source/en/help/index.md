@@ -77,7 +77,12 @@ Everyone can register to be a delegate; everyone can vote for any delegate, but 
 
 Asch’s initial circulation is 100 million.
 
-# 10 How much is Asch delegates’ returns?
+# 10 How much is the circulating supply of Asch?
+
+Asch doesn't have a mechanism that freezes the coins.Every XAS of the total supply is distributed in the public hands. The circulating supply is the same as total supply. You can check the total supply from a [blockchain explorer](http://asch.pub/ ).
+
+
+# 11 How much is Asch delegates’ returns?
 
 Gross profit per day: 24*60*60/10*3.5=30240 XAS
 
@@ -85,16 +90,16 @@ Each trustee’s gross profit per day: 30240/101=299.4 XAS
 
 The block rewards will decrease over time.Please click [here](https://github.com/AschPlatform/asch-docs/blob/master/asch_delegate_forging.md) to see the details.
 
-# 11 How do we issue our own assets by Asch?
+# 12 How do we issue our own assets by Asch?
 
 [Click to see the publishing asset tutorial](http://bbs.asch.so/topic/115/asch%E5%8F%91%E8%A1%8C%E8%B5%84%E4%BA%A7%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
 
-# 12 Which platform does Asch support?
+# 13 Which platform does Asch support?
 
 Currently, Asch is fully supported by the Linux platform, while Windows can synchronize blocks but cannot produce blocks.
 We are looking forward to being supported by more platforms in the future.
 
-# 13 How does Asch differ from ETH and LISK?
+# 14 How does Asch differ from ETH and LISK?
 
 Comparisons between Asch and ETH
 
@@ -118,7 +123,7 @@ Comparisons between Asch and LISK
 |TPS|3000|20|
 
 
-# 14 Where to trade Asch?
+# 15 Where to trade Asch?
 
 Today
 [chaoex]https://www.chaoex.com
@@ -129,22 +134,19 @@ Today
 [bcex]http://www.bcex.ca
 [kucoin]http://www.kucoin.com
 
-In the future
-[BTC100](https://www.btc100.cn/)
 
-
-# 15 What blockchain browsers does Asch have?
+# 16 What blockchain browsers does Asch have?
 Chinese version：http://aschd.org/
 English version：http://explorer.asch.pub/
 
-# 16 What Api does Asch provide?
+# 17 What Api does Asch provide?
 The form of Api for Asch is RESTful,Click the link below if you request  http://45.32.248.33:4096/api/transactions/get?id=08ce16c9cf6a0dd4636f8f17665146984293c2f2889124877ad7e4f3eea37eb2，Then return to the json data.。
 There are three categories of Api : :
 1. General external access Api
 2. Internal communication Api
 3、Dapp api
 
-# 17 What is the Asch inflation rate?
+# 18 What is the Asch inflation rate?
 The block bonus will decrease as time goes by; the specific time is based on the height of a block in the future. The block bonus system starts form 464,500, with an initial reward of 3.5 coins, and is reduced every 3 million blocks, approximately a year. After the 15,464,500 blocks, bonuses are no longer diminishing, with a slight inflation rate of less than 1.5% a year (relative to the initial amount of 100 million).
 The inflation rate is as follow： (calculated from the 464,500 block, at the point of block rewards generation, around October 7, 2016)
 
@@ -169,18 +171,18 @@ Bellows are the blocks of rewards at all stages:
 | 1 | 12464500 | 15464500 |
 | 0.5 | 15464500 | --|
 
-# 18 What is the GPL of Asch code?
+# 19 What is the GPL of Asch code?
 
 The MIT License (MIT)
 
-# 19 What related algorithms does Asch use?
+# 20 What related algorithms does Asch use?
 
 Consensus algorithm 0.5（AC0.5）
 Consensus algorithm 1.0（AC1.0）
 Password generation algorithm: BIP39 specification (Level 1 password)
 Private key and public key generation algorithm: ed25519 encryption
 
-# 20 Side-chain (cross-chain) Introduction
+# 21 Side-chain (cross-chain) Introduction
 
 The side chain does not refer to the side chain that Asch made for other blockchain, but to the Asch’s own side chain, i.e. Dapp.
 
@@ -197,17 +199,17 @@ Dapp development tutorial 4: Asch Dapp Dice Game development tutorial- this
 document teach you how to create more complex types of transactions or smart contracts, how to establish the connections between contracts, how to rely on historical transaction data when enforcing contracts, and the realization of a dice game as a demo.
 Dapp development tutorial 5: Release Dapp Online - this document teaches you how to register on the online system (testnet, mainnet), and how to install and uninstall.
 
-# 21 How do we transfer Asch?
+# 22 How do we transfer Asch?
 
 Click : http://forum.asch.so/index.php?s=/forum/index/detail/id/95.html
 
-# 22 Asch’s work focuses
+# 23 Asch’s work focuses
 There are two main directions: application development and bottom development:
 1.Application development: Mainly for several typical applications, for example, for news aggregating, forecasting markets and exchanges.
 2.Bottom development: Optimize TPS, smart contracts, anonymous transactions, Identification (ID) authentication, the Oracle, and the cross chains with BTC and ETH.
 3.The community has already developed some supporting facilities, such as asset browser, USB wallet and Java SDK.
 
-# 23 Asch’s history
+# 24 Asch’s history
 
 01/01/2016 Asch program was initiated.
 03/01/2016 The implementation of a predigest algorithm model based on PBFT (prototype of Asch consensus algorithms) to fixe bugs of DPOS algorithm after the bug was analyzed and a simple attacking way was simulated. https://github.com/sqfasd/dpos-pbft/

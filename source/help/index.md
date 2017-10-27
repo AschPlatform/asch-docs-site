@@ -85,13 +85,13 @@ Asch没有冷冻机制，所有已锻造的xas都在公众手中流通，流通�
 
 # 15 Asch可以在哪里交易？
 Asch现在可以在7个交易平台进行交易，分别是：
-[chaoex]https://www.chaoex.com
-[coolcoin]https://www.coolcoin.com
-[coinegg]https://www.coinegg.com
-[bit-z]https://www.bit-z.com
-[什币网]https://www.asdbi.com
-[bcex]http://www.bcex.ca
-[kucoin]http://www.kucoin.com
+[chaoex](https://www.chaoex.com)
+[coolcoin](https://www.coolcoin.com)
+[coinegg](https://www.coinegg.com)
+[bit-z](https://www.bit-z.com)
+[什币网](https://www.asdbi.com)
+[bcex](http://www.bcex.ca)
+[kucoin](http://www.kucoin.com)
 数字资产投资风险大，强烈建议您在自身能承受的风险范围内参与数字资产投资
 
 

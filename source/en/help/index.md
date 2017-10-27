@@ -126,13 +126,13 @@ Comparisons between Asch and LISK
 # 15 Where to trade Asch?
 
 Today
-[chaoex]https://www.chaoex.com
-[coolcoin]https://www.coolcoin.com
-[coinegg]https://www.coinegg.com
-[bit-z]https://www.bit-z.com
-[asdbi]https://www.asdbi.com
-[bcex]http://www.bcex.ca
-[kucoin]http://www.kucoin.com
+[chaoex](https://www.chaoex.com)
+[coolcoin](https://www.coolcoin.com)
+[coinegg](https://www.coinegg.com)
+[bit-z](https://www.bit-z.com)
+[asdbi](https://www.asdbi.com)
+[bcex](http://www.bcex.ca)
+[kucoin](http://www.kucoin.com)
 
 
 # 16 What blockchain browsers does Asch have?

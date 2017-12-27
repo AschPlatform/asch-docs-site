@@ -190,7 +190,7 @@ ASCH 官网：www.asch.so
 
 ASCH 官方微信公众号：
 
-![wechat](./assets/wechat.png)
+![wechat](./assets/wechat.jpg)
 
 官方 QQ 群：
 

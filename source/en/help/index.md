@@ -20,13 +20,13 @@ Asch developers QQ group：472708713
 BIVIEWS: ASCH  Column
 Micbolg: 北京阿希链科技有限公司
 Official WeChat：
-![wechat](./assets/wechat.png)
+![wechat](./assets/wechat.jpg)
 
 # 3 What is the Asch Wallet?
 
 Old wallet address of Asch system were digitals, later it upgraded to letters. They are compatible except for certain exchanges. Thus, old users should use the new alphabetic adders when withdrawing XAS on exchanges if possible.
 
-Online wallet: http://mainnet.asch.so/
+Online wallet: http://mainnet.asch.io/
 
 How do we use wallet?
 
@@ -79,7 +79,7 @@ Asch’s initial circulation is 100 million.
 
 # 10 How much is the circulating supply of Asch?
 
-Asch doesn't have a mechanism that freezes the coins.Every XAS of the total supply is distributed in the public hands. The circulating supply is the same as total supply. You can check the total supply from a [blockchain explorer](http://asch.pub/ ).
+Asch doesn't have a mechanism that freezes the coins.Every XAS of the total supply is distributed in the public hands. The circulating supply is the same as total supply. You can check the total supply from a [blockchain explorer](https://explorer.asch.io/ ).
 
 
 # 11 How much is Asch delegates’ returns?
@@ -136,8 +136,7 @@ Today
 
 
 # 16 What blockchain browsers does Asch have?
-Chinese version：http://aschd.org/
-English version：http://explorer.asch.pub/
+https://explorer.asch.io/
 
 # 17 What Api does Asch provide?
 The form of Api for Asch is RESTful,Click the link below if you request  http://45.32.248.33:4096/api/transactions/get?id=08ce16c9cf6a0dd4636f8f17665146984293c2f2889124877ad7e4f3eea37eb2，Then return to the json data.。

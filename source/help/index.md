@@ -8,19 +8,19 @@ Asch是一个具有前瞻性的、低成本的一站式应用解决方案，相�
 # 2 我应该样去了解Asch？
 查看[官网](https://www.asch.so/)
 通读[Asch白皮书](https://www.asch.so/asch-whitepaper.pdf)
-如果是开发者，可以通过查看[Asch的github](https://github.com/AschPlatform/asch)，大致了解源码相关内容
+如果是开发者，可以通过查看Asch的[github](https://github.com/AschPlatform/asch)，大致了解源码相关内容
 去QQ群和大家沟通交流
 Asch生态社区1群：485979564
 Asch生态社区2群：545183438
 Asch开发者协会群：472708713
 官方微博：北京阿希链科技有限公司
 官方微信公众号：
-![wechat](./assets/wechat.png)
+![wechat](./assets/wechat.jpg)
 
 # 3 Asch钱包有哪些？
 
 Asch系统以前的钱包地址是数字地址，后面升级为字母地址，两者可以兼容，但部分交易所不兼容，所以老用户要注意交易所提币尽量使用新钱包的字母地址
-浏览器钱包：http://mainnet.asch.so/
+浏览器钱包：http://mainnet.asch.cn/
 钱包不会用怎么办？
 [小白玩转asch账户必看](http://bbs.asch.so/topic/450/%E7%8E%A9%E8%BD%ACasch%E8%B4%A6%E6%88%B7%E5%BF%85%E7%9C%8B%E6%95%99%E7%A8%8B)
 [钱包用户须知](http://bbs.asch.so/topic/23/%E9%92%B1%E5%8C%85%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5)
@@ -95,9 +95,8 @@ Asch现在可以在7个交易平台进行交易，分别是：
 数字资产投资风险大，强烈建议您在自身能承受的风险范围内参与数字资产投资
 
 
-# 16 Asch有哪些区块链浏览器?
-中文版：http://aschd.org/
-英文版：http://explorer.asch.pub/
+# 16 Asch的区块链浏览器?
+http://explorer.asch.io/
 
 # 17 Asch的提供哪些Api？
 Asch目前的api是restfull形式的，如请求http://45.32.248.33:4096/api/transactions/get?id=08ce16c9cf6a0dd4636f8f17665146984293c2f2889124877ad7e4f3eea37eb2，返回json数据。

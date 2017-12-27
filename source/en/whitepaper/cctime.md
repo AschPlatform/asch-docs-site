@@ -2,88 +2,60 @@ title:  CCTime Whitepaper
 ---
 # 0 Introduction
 
-CCTime (Cryptocurrency Time) is a distributed social news sharing and communication platform based on
-Asch's side-chain technology. CCTime is reconstructed based on the Hacker News. The block chain technology
-is used to change the existing pattern of centralized content-sharing market and to solve the difficulties
-of identification, spreading and making profit with high-quality content. Making high-quality content will
-always get paid by a new content value assessment system. Publishers and sharers of high-quality news will
-be rewarded with tokens according to this "bonus mode", and this will benefit to build a valuable public news
-gathering and sharing platform, which will keep with the demands of readers.
+CCTime (Cryptocurrency Time) is a distributed social news sharing and communication platform based on Asch’s side-chain technology. CCTime is reconstructed based on the Hacker News. The blockchain technology is used to change the existing pattern of a centralized content-sharing market and to solve the difficulties of identification, spreading and making  a profit with high-quality content. Creators of high-quality content will always get paid by a new content value assessment system. Publishers and sharers of high-quality news will be rewarded with tokens according to this “bonus mode,” and this will allow us to build a valuable public news gathering and sharing platform, which will keep up with the demands of readers.
 
 # 1 Why To Make CCtime
 
 ## 1.1 Conceptual Origin
 
-CCTime (Cryptocurrency Time) is a demonstration example of Asch’s applications. The conceptual origin comes
-from the Hacker News. CCTime only have some simple functions including account registration and login, press
-release, browsing, making comments, voting and so on. The core conception of this design is not making original
-content, copyright protection or social interactions, just the content sharing and making comments, and building
-a lightweight news gathering platform based on block chain technology.
+CCTime (Cryptocurrency Time) is a demonstrational example of Asch’s applications. The conceptual origin comes from the Hacker News. CCTime only has some simple functions, including account registration and login, press release, browsing, commenting, voting and so on. The core concept of this design is not making original content, copyright protection or social interactions, instead it is content sharing, making comments, and building a lightweight news gathering platform based on blockchain technology.
 
-With the development of this project, we believe that it will have great potential, the main reasons including:：
+With the development of this project, we believe that this project has great potential; the main reasons are::
 
-1. CCTime is the first project mainly aiming at news sharing and making comments based on the block chain technology;
+1.CCTime is the first project which mainly aims at news sharing and making comments based on blockchain technology;
 
-2. There are large numbers of high-level participants in the crypto market, but there is no high-quality community
-such as Hacker News to gather these high-quality users together. CCTime will be the answer, and crypto market will
-also need this product;
+2.There are considerable numbers of high-level participants in the crypto market, but there are no high-quality communities such as Hacker News to gather  high-quality users. CCTime will be the answer, and the crypto market will also need this product;
 
-3. when compared with the traditional news platform, on the new platform, the difficulties of high quality content
-identification can be solved effectively by adding tokens incentive function. Based on the block chain technology,
-the CCTime is designed to return the value to the value creators and deliverers, and all the participants can share
-this value, the company can not control most of the value anymore;
+3. When compared with traditional news platforms, on the new CCTime platform, the difficulties of high-quality content identification will be solved effectively by adding a token incentive function.
 
-4. The YOYOW, DECENT, GitBook pay more attention on making original content and copyright protection, while CCTime
-is only a content sharing and comments making platform, which is a kind of news releasing platform. Its competitive
-product can be the Jinritoutiao and flipboard;
+4.Based on  blockchain technology, the CCTime platform is designed to return the value to the content creators and deliverers, and while all participants can share this cost, no single company is able to control most of it any more;
 
-5.when compared with the Jinritoutiao, CCTime’s ranking algorithm can avoid the bias-deepen problem brought by the
-machine learning algorithm since the machine will only recommend your favorite content;
+5.The projects YOYOW, DECENT and GitBook pay more attention to making original content and copyright protection, while CCTime is a content sharing and commenting platform;_a sort of news release platform. Its competitors are  Jinritoutiao and flipboard. When compared with Jinritoutiao, CCTime’s ranking algorithm avoids the bias deepened problem brought by the machine learning algorithm since the machine will only recommend your favorite content;
 
-6.The functions of the CCTime are simple and easy to use. Users can get started quickly;
+6.The functions of  CCTime are simple and easy to use. Users can get started quickly;
 
-7. Today, fast reading is in expansion, there is more demand for news application, the market is very promising.
+7.Today, fast reading is becoming a trend. There is more demand for news applications, and the market is looking very promising.
 
 
 ## 1.2 Business model
 
-Centralized content distribution platforms have all the power concentrated in the central institutions, this will lead
-to over centralization of institutional power. While the completely decentralized content distribution platforms may be
-full of vulgar, pornography, reactionary speeches since there is no regulation.
+Centralized content distribution platforms have all the power concentrated in_central institutions, which leads to over-centralization of institutional control. Meanwhile,  completely decentralized content distribution platforms may be full of vulgar content, pornography, reactionary speeches, etc., since there is no regulation.
 
-The conception of CCTime (Cryptocurrency Time) is to spread the value of information. Therefore, in order to reduce,
-avoid or even eliminate the negative impact of the completely decentralization, CCTime system uses a regulatory model
-combined with variety of ways.
+The concept of CCTime (Cryptocurrency Time) is to spread the value of information. Therefore, to reduce, avoid or even eliminate the negative impact of  total  decentralization, CCTime system uses a regulatory model, combined in a variety of ways.
 
-In the early days, the trustees, as regulators, supervise CCTime platform by joint reporting. And the regulators'
-rights will be supervised by users in order to avoid abuse of power.
+In the early days, the trustees, as regulators, supervise the CCTime platform through joint reporting. Regulator rights will be supervised by users in order to avoid any abuse of power. Later, each publisher will use the “collateral message” mechanism to publish information. The system will rank the content according to the collateral issue via the collateral XCT.
 
-Later, each publisher uses the "collateral message" mechanism to publish information. The system will rank the content
-according to the mortgage issue via the mortgage XCT. Readers can comment contents. When a certain level is reached,
-the publisher can redeem the token, or leave it to the system as a "bargaining chip" for the next information sharing.
-Through the data analysis of CCTime system, the mortgage rate will decrease accordingly.
+Readers can comment on content. When a certain level is reached, the publisher can redeem the token, or leave it to the system as a “bargaining chip” for the next round of information sharing.
+
+Through data analysis of the CCTime system, the collateral rate will decrease accordingly.
 
 # 2 Design Concept
 
 ## 2.1 Simplicity
 
-CCTime Only includes the functions of account registration and login, press release, browse, comment, vote. It doesn't
-focus on advertising social, copyright or original content. And everyone can use it quickly and easily.
+CCTime only includes the functions of account registration and login, publishing press releases, browsing, commenting  and voting. It doesn’t focus on advertising social, copyright or original content.
 
 ## 2.2 Effective Supervision
 
-CCTime Only includes the functions of account registration and login, press release, browse, comment, vote. It doesn't
-focus on advertising social, copyright or original content. And everyone can use it quickly and easily.
+Regulators have the supervising roles to review inappropriate contents such as pornography, reactionary, violence, homicide, etc). In the meanwhile, regulators are supervised by other non-regulator users to avoid power abuse.
 
 ## 2.3 Free distribution
 
-the tokens are free distribution, allowing more people to hold tokens for free.
+The tokens can be freely distributed, allowing more people to hold tokens.
 
 ## 2.4 Sharing Value
 
-Distributed value transmission breaks the limitation of traditional information Internet. Everyone enjoys CCTime’s
-value-added profit distribution by tokens, effectively promoting content publishers' enthusiasm and improving the
-production and dissemination of higher quality content.
+Distributed value transmission breaks the limitation of conventional information on the internet. Everyone enjoys CCTime’s value-added profit distribution by receiving tokens, effectively promoting content publishers’ enthusiasm and improving the production and dissemination of high-quality content.
 
 
 
@@ -91,36 +63,19 @@ production and dissemination of higher quality content.
 
 ## 3.1 Asset production
 
-CCTime is a decentralized application based on Asch application SDK. The CCTime application will not issue tokens
-independently, transferring from main chain.
+CCTime is a decentralized application based on Asch’s application SDK. The CCTime application will not issue tokens independently by transferring from the main chain. A publisher called CCTime in the Asch main chain will be registered, and the publisher will be used to register an asset called XCT, which is known as cctime.xct. Once the asset is issued, it will be transferred to the CCTime application in a lump sum and will be locked in a joint signature account of the application. We will release 95 percent of tokens by airdropping within one year to users who are interested in the application.
 
-We will register a publisher called CCTime in the Asch main chain, and then use the publisher to register an asset
-called XCT, which is known as cctime.xct.
+Why not produce assets within CCTime?
 
-Once the asset is issued, it will be transferred to the CCTime application in a lump sum and locked in a joint
-signature account of the application.
+Issuing assets in the main chain are reliable. In the future, the assets transferred to Dapp can also be transferred to the main chain through the cross-link port and then transferred to other applications，achieving the goal of multi-chain and multi-purpose.
 
-We will release 95 percent of tokens by airdropping within one year to users who are interested in the application.
-
-Why do not produce assets within CCTime?
-
-It is good to issue assets in the main chain. In the future, the assets transferred to Dapp can also be transferred to
-the main chain through the cross-link port and then transferred to other applications，achieving the goal of multi-chain
-and multi-purpose.
 
 ## 3.2 System of account
 
-The main chain of Asch is in common use with all the accounts of Dapp(except for the old version of the digital address).
-Account authentication uses asymmetric encryption techniques, therefore, there is no need for a centralized registration
-process. The user only needs to keep the master password corresponding to an account, then you can make various write
-operation of block chains . Such as transfer, release news, reward, praise, comment and so on.
+The main chain of Asch is in normal use with all the accounts of Dapp (except for the old version of the digital address). Account authentication uses asymmetric encryption techniques. Therefore, there is no need for a centralized registration process. The user only needs to keep the master password corresponding to an account, can make various write operation on the blockchain, such as transfer, release news, reward, praise, comment and so on.
 
-The master password is to use the bip39 protocol generated by several (multiples of 12) word mnemonic symbol, as well as
-the public key pair and the private key pair take the master password as seed, calculated by ed25519 elliptic curve
-algorithm.
+The master password uses the bip39 protocol generated by several (multiples of 12) word mnemonic symbols, as well as the public key pair and the private key pair taking the master password as seed, calculated by the ed25519 elliptic curve algorithm. Account ID or account address then is encoded by the public key, followed by two sha256 hashes and one ripemd160 hash, and a repass Base58check.
 
-Account ID or account address then is encoded by the public key, followed by two sha256 hashes and one ripemd160 hash,
-repass Base58check.
 
 ## 3.3 Cryptography algorithm
 
@@ -130,14 +85,9 @@ The signature of the bookkeeper and the transaction signature of the block are t
 
 ## 3.4 Contract and abstract transaction model
 
-The Asch application uses an abstract transaction model, this model can represent any function call. In Bitcoin,
-the payload of the block is transaction or transfer record, In Asch applications, the payload of the block is
-the function or contract call, also called affair(transaction).
+The Asch application uses an abstract transaction model; this model can represent any function call. On the Bitcoin blockchain, the payload of the block is a transaction or transfer record, In Asch applications, the payload of the block is the function or contract call, also called an affair(transaction). A transaction can modify multiple states such as balances, nicknames, news, comments, etc.
 
-A transaction can modify multiple states, such as balances, nicknames, news, comments, etc.,
-transactions are atomic, either perform all or cancel all, there will be no half done.
-
-CCTime include the following specific matters
+CCTime includes the following specific methods:
 1. postArticle (Release news)
 2. postComment (Release comment)
 3. voteArticle (Vote for the article)
@@ -149,60 +99,39 @@ CCTime uses the following comprehensive scoring algorithm:
 ![score](./assets/score.png)
 Thereinto,
 
-V stands for the number of votes obtained by an article, votes are measured in tokens of XCT
+V stands for the number of votes obtained by an article; votes are measured in tokens of XCT .
 
-T stands for the time from which an article is published (in hours), Plus 2 is  in consideration
-of that it takes time to create an article from authoring it to sharing it with the CCTime system,
-it also avoids the problem that the denominator is too small due to too short release time.
+T stands for the time from which an article is published (in hours), Plus 2 is in consideration because it takes time to create an article from authoring it to sharing it with the CCTime system, it also avoids the problem that the denominator is too small due to too short release time.
 
 G is a gravity factor ,it determines the rate of decline in the article ranking, the default value for CCTime is 1.8
 
 ![chart](./assets/chart.png)
 
-As you can see from the picture above, there are three simultaneous posts, respectively scoring 199, 59 and 29,
-which is respectively in yellow, in purple an in blue. At any time point, the yellow curve is at the top,
-the blue curve at the bottom.
+As shown in the picture above, there are three simultaneous posts, respectively scoring 199, 59 and 29, which is respectively in yellow, in purple and in blue. At any point in time, the yellow curve is at the top, the blue curve at the bottom.
 
-Provided that other conditions are the same, the more newly published posts, the higher the ranking. In other words,
-the ranking of a post will fall as time goes on.
+Provided that other conditions are the same, the more newly published posts, the higher the ranking. In other words, the ranking of a post will fall as time goes on.
 
-What you can see from the picture above is that all posts are basically less than 1 score after 24 hours. That means
-they will fall to the bottom of the list, ensuring that the top ones will be new.
+What is possible to see on the picture above is that all posts have a score less than 1 after 24 hours. That means they will fall to the bottom of the list, ensuring that the top ones will be new.
 
 ![chart2](./assets/chart2.png)
-As can be seen from the figure above, the other parameters of the three curves are the same. G values are 1.5, 1.8 and
-2.0 respectively. The higher the G value, the steeper the curve, the faster the ranking drops, Which means that the
-ranking is updated faster.
-(This section refers to the Yifeng Ruan's blog, and slightly modified)
+As it can be seen in the figure above, the other parameters of the three curves are the same. G values are 1.5, 1.8 and 2.0 respectively. The higher the G value, the steeper the curve, the faster the ranking drops, Which means that the ranking is updated faster.
+(This section refers to the Yifeng Ruan’s blog, and is slightly modified)
 
 ## 3.6 Reward Mechanism
-The execution of each transaction requires the consumption of basic fees, which are paid by the sponsor and distributed
-equally to all accounts.
+The execution of each transaction requires the consumption of basic fees, which are paid by the sponsor and distributed equally to all accounts.
 
-In addition to the basic fee, PostArticle and postComment, the sponsor also needs to choose to spend extra tokens to
-represent the amount of votes and quotas, which are mostly rewarded to the publisher of the articles or the commenter
-publishers, but a small number (10%) will enter into the expense pool to assign to the accountant.
+In addition to the basic fee, postArticle and postComment, the sponsor also needs to choose to spend extra tokens to represent the amount of votes and quotas, which are mostly rewarded to the publisher of the articles or the commenter publishers, but a small number (10%) will enter into the expense pool to be assigned to the accountant.
 
 ## 3.7 Review Mechanism
-CCTime is a decentralized system, without user authentication. The user generally logins anonymously. we need a review
-mechanism to prevent anti-government, anti-social or other violations of the law of the emergence of speech.
+CCTime is a decentralized system, without user authentication. The user generally logs in anonymously. There is a need for a review mechanism to prevent anti-government, anti-social or other violations of the law of the emergence of speech.
 
-The review of CCTime1.0 is temporarily responsible by all the delegators. Each delegator can report any articles or
-comments. If the number of times is reported more than 3 times, the article or comment will be filtered out, but not be
-deleted from the underlying database, just make a mark.
-
-The review mechanism only affects the data returned by the query interface. A non-standard node compatible with the
-CCTime protocol can still show all non-filtered data.
-
+The review of CCTime 1.0 is temporarily responsible by all the delegates. Each delegate can report any articles or comment. If the content is reported more than 3 times, the article or comment will be filtered out, but will not be deleted from the underlying database;it will be just marked. The review mechanism only affects the data returned by the query interface. A non-standard node compatible with the CCTime protocol can still show all non-filtered data.
 
 # 4 Distribution Mechanism
-XCT (current coin) issues limit of 10 billion. The main team reserves 5% tokens, and the remaining 95% will be airdrop
-to blockchain community.
+XCT (current coin) issues a maximum of 10 billion coins. The main team reserves 5% tokens, and the remaining 95% will be airdropped to the blockchain community.
 
 ## 4.1 Distribution Principle
-
-The principle of distribution is to cover as many user groups as possible, but mainly in the coin circle, the outside
-coin circle is for the second.
+The principle of distribution is to cover as many user groups as possible, mainly for crypto users/investors, and it can also cover the ones who do not know much about the cryptocurrency.
 
 ## 4.2 Formula（MCDF）
 
@@ -212,66 +141,50 @@ coin circle is for the second.
 
 ### 4.3.1 First Round of Airdrop Rules
 
-1. Only for the four communities in coin circle (Asch coin, Bitcoin, Ethereum, BitShares);
+1. 1.Only for the four communities in coin circle (Asch coin, Bitcoin, Ethereum, BitShares);
 
 2. Use the multi-community allocation rule in section 5.2;
 
-3.Begin to airdrop officially on August 20. On September 20, snapshot on the four public chains, and calculate the user’s
-share according to the formula and distribute the tokens immediately ;
+3. The XCT token airdrop was originally planned to be on August 20, and postponed due to new regulations. A snapshot of the four public chains will be taken, and the user’s share will be calculated according to the formula, and the tokens will be distributed immediately ;
+1)Distribution of 1 billion tokens in total;
+2)Refer to Appendix A for examples.
 
-4. Distribute a total of 1 billion;
-
-5. Refer to Appendix A for examples.
 
 ### 4.3.2 After the second period
 
-Starting from the second period, The one who is holding XCT (current coin) can participate in the airdrop, in addition
-to the specified coins. Each XCT (current coin) can receive 0.1 XCT (current coin). Program of other coins and airdrop
-ratio is to be determined.
+Starting from the second period, The one who is holding XCT (current coin) can participate in the airdrop, in addition to the specified coins. Each XCT (current coin) can receive 0.1 XCT (current coin). Program of other coins and airdrop ratio is to be determined.
 
 # 5 Competition Advantages
 
-CCTime (Cryptocurrency Time) is the first Dapp application (decentralized content distribution platform) based on Asch
-system side-chain, which has a greater advantage over other platforms such as Steem, Synereo, Decent, PressOne,
-specifically:
+CCTime (Cryptocurrency Time) is the first Dapp application (decentralized content distribution platform) based on Asch’s system side-chain, which has a commanding advantage over other platforms such as Steem, Synereo, Decent, PressOne, specifically:
 
-1. Own the support of Asch's technology and community;
+1. Own the support of Asch’s technology and community;
 2. Product model innovation, market segments without competitors;
 
 
 # 6 Risk Tips
 
-Although distribution model of CCTime (Cryptocurrency Time) uses the airdrop, but with each round of airdrop and the
-increasing number of visitors, XCT (time currency) will inevitably bring the risk of speculation (operation),
-including but not limited:
+Although the distribution model of CCTime (Cryptocurrency Time) makes use of airdrops,  each round of airdrops, and the increasing number of visitors will inevitably bring a risk of speculation, including but not limited to:
 
 1. Secondary trading market has formed. Offline trading becomes active and highly risky;
 
-2.XCT ( current coin) once distributed, the authority no longer holds. The holder is the owner. The key should be
-properly preserved. Once lost, the authority will not shoulder responsibility;
+2. XCT (current coin) once distributed, the authority no longer holds. The holder is the owner. The key should be properly preserved. Once lost, the authority will not shoulder responsibility;
 
-3. CCTime (Cryptocurrency Time) is a application of distributed content sharing and communication, which based on the
-Asch system. As a platform application, participants should abide by the relevant laws and regulations, prohibit all
-bad, reactionary and other remarks, together to create a good atmosphere.
+3. CCTime (Cryptocurrency Time) is an application of distributed content sharing and communication, which is based on the Asch system. As a platform application, participants should abide by the relevant laws and regulations, prohibit all bad, reactionary and other remarks, together to create a safe atmosphere.
 
 
 # 7 More Attention
-Asch team is adhering to the concept of blockchain sharing and contribution. After a long period of research and
-development, it is about  to share the first application of Asch ecological to the domestic blockchain community.
-Welcome to use it , and also welcome the majority of the blockchain developers to join the Asch community. Together
-promote the application of China's blockchain to land in.
-
-CCTime (Cryptocurrency Time) will meet you soon. More information, please pay attention to：
+The Asch team is adhering to the concept of blockchain sharing and contribution. After a long period of research and development, they are about to share the first application of Asch’s ecology to the domestic blockchain community. Everyone is welcome to use it, and we invite the majority of the blockchain developers to join the Asch community. Everyone may promote the application of China’s blockchain to participate in the CCTime (Cryptocurrency Time) airdrop. For more information, please pay attention to upcoming announcements on the following channels：
 
 CCTime official website: www.cctime.org
 
-ASCH official website: www.asch.so
+ASCH official website: www.asch.io
 
 Official weibo: Beijing Asch Chain Technology Co., Ltd.
 
 ASCH Official Wechat Public Subscribe
 
-![wechat](./assets/wechat.png)
+![wechat](./assets/wechat.jpg)
 
 Official QQ group：
 
@@ -281,7 +194,7 @@ CCTime official group2：65622549
 
 #8 Appendix A: XCT (Current Coin) First Round Airdrop Examples
 
-For example, if total number of Asch coin to participate in airdrop is 40 million（Xxas） this round and the weighting factor of Asch is 2, the Asch coin is calculated as 100 million（Sxas） totally.
+For example, if the total number of Asch coins to participate in airdrop is 40 million (XAS) this round, and the weighting factor of Asch is 2, the Asch coin is calculated as 100 million (XAS) in total.
 The proportion of Asch coin:
 Pxas = Xxas * Kxas / Sxas = 40 million * 2/100 million = 0.8
 If total number of Bitcoin to participate in airdrop is 5 million（Xbtc） this round and the weighting factor of Bitcoin is 1, the Bitcoin is calculated as 20 million（Sbtc） totally.

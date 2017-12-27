@@ -25,11 +25,11 @@ CCTime官网：www.cctime.org
 CCT是基于Asch应用sdk开发的区块链应用，与Asch主链可以互通资产，我们会在Asch主链注册一个叫做CCtime得发行商，然后使用这个发行商注册一个名为XCT的发行代币，代币来自主链的转入。所以CCT的钱包即为阿希钱包，XCT的地址与XAS的地址通用。用户只需下载使用阿希钱包即可，如将XCT转入阿希钱包，XCT代币会在资产栏显示。
 
 在线钱包：
-http://mainnet.asch.so/
+http://mainnet.asch.cn/
 轻钱包下载地址以及钱包注册与使用：
 http://pan.baidu.com/s/1hsh7VDU
 移动端钱包：安卓手机使用Android版APP钱包 ，苹果手机IOS版本后续会加上，请暂时使用web版本。
-![wallet](./assets/wallet.png)
+![wallet](./assets/android.png)
 
 # 5 CCTime可以挖矿吗？
 

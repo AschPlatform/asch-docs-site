@@ -25,11 +25,11 @@ Asch official forum: http://bbs.asch.so.
 # 4 Where is the wallet of CCTime and how to download it?
 CCTime is a decentralized application based on Asch application SDK, so it can be used for transferring asset with Asch main chain. We will register a publisher in the Asch main chain, named as CCTime, and then use the publisher to register a token, denoted as XCT, which is transferred from Asch main chain. So CCTime and Asch share the wallet , the address of XCT and XAS are interchangeable. Therefore, if you have already downloaded Asch wallet, XCT token will be shown on the asset tab when you transfer XCT token into the wallet.
 Online wallet
-http://mainnet.asch.so/
+http://mainnet.asch.io/
 Light wallet download address and the user guide:
 http://pan.baidu.com/s/1hsh7VDU
 Mobile wallet: Android phone can use APP wallet .APP wallet for IOS is on the way, you can use web wallet instead during this time.
-![wallet](./assets/wallet.png)
+![wallet](./assets/android.png)
 
 # 5 Can I mine XCT token?
 

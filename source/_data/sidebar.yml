@@ -4,6 +4,12 @@ docs:
     delegate_forging: asch_delegate_forging.html
     command_line: asch_cli_usage.html
     http: asch_http_interface.html
+    issue_assets: asch_issue_assets.html
+
+whitepaper:
+   catalog:
+    asch: index.html
+    cctime: cctime.html
 
 dapp:
   basic:
@@ -14,3 +20,10 @@ dapp:
     mini_dao: 3_mini_dao.html
     dice_game: 4_dice_game.html
     publish: 5_publish.html
+
+help:
+  catalog:
+    asch: index.html
+    cctime: cctime.html
+    xctAirdrop: xct_airdrop.html
+    pcwallet: pcwallet.html

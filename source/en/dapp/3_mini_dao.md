@@ -6,7 +6,7 @@ After warming up with two previous tutorials, let us start a realistic project. 
 
 # 1 Create contract
 
-Firstly, let us go into the folder where DApp located:
+Firstly, let us go into the folder where DApp is located:
 
 ```
 cd dapps/<dapp id>/
@@ -41,7 +41,7 @@ Before we create a smart contract, we need to define in advance the transaction 
 Usually one contract type is related to one table. And the schema of the table is configured in `blockchain.json`.
 
 Our project is simple, which only contains `name` and  `description`  fields.
-Another field, `transactionId`, is required by every entity table, and it is the foreign key of fundamental transaction `transactions` .
+Another field, `transactionId`, is required by every entity table, and it is the outside key of fundamental transaction `transactions` .
 
 ```
 {
@@ -224,7 +224,7 @@ This API deals with account, including adding/subtracting numbers, appending/rem
 
 In this case we make the subtraction to account balance, which is subtracting `BURN_POINTS` from `POINTS` asset of `u_balance`.
 
-The reason that we named `BURN_POINTS` here is that there will be some assets that need to be burned for the execution of contract. As we did not define the destination of these consumed assets, they would disappear without any result, so called "burned". 
+The reason why we named `BURN_POINTS` here is that there will be some assets that need to be burned for the execution of contract. As we did not define the destination of these consumed assets, they would disappear without any result, so called "burned".
 
 We here set the `BURN_POINTS` just for simplicity. If your business logic does not want to "burn" some assets, you can transfer them to application developers or node operators as transaction fee, or to a fund account as expense of further development. It is totally up to you.
 
@@ -241,7 +241,7 @@ Project.prototype.apply = function (trs, sender, cb, scope) {
 
 Only one operation: a subtraction from account asset. As simple as that.
 
-In most of cases, usage of `applyUnconfirmed` is more complicate than that of `apply` , especially asset subtracting operations are involved. When subtracting some assets, `applyUnconfirmed` is executed earlier than `apply`, and therefore it is unnecessary for the latter to do some requirement checks.
+In most cases, usage of `applyUnconfirmed` is more complicated than that of `apply` , especially asset subtracting operations are involved. When subtracting some assets, `applyUnconfirmed` is executed earlier than `apply`, and therefore it is unnecessary for the latter to do some requirement checks.
 
 And we must note that the field modified by `apply` is `balance`, while that field for `applyUnconfirmed` is `u_balance`. 
 
@@ -264,7 +264,7 @@ Almost all types of transactions can be created through the same procedure, whic
 
 One thing needed to know is the usage of `library.sequence.add`, and this API can guarantee that the executions of multiple transactions would rigorously follow the pre-defined order. If your contract process involves asynchronous operations, you should use this API.
 
-Also let us check the query interface `list`, and if you are familiar with SQL language, you will find out that this is just an operation of union query. Why is union query necessary? Because `transactions` and `asset_xxx` are the different parts of one particular transaction, in which the former is the meta-data that would be used by all transactions, e.g., transaction initiator, digital signature of transaction data, and the amount of money, and etc., while the latter is a kind of extension of transaction data - or user defined data - that is related to specific business logic.
+Also let us check the query interface `list`, and if you are familiar with SQL language, you will find that this is just an operation of union query. Why is union query necessary? Because `transactions` and `asset_xxx` are the different parts of one particular transaction, in which the former is the meta-data that would be used by all transactions, e.g., transaction initiator, digital signature of transaction data, and the amount of money, and etc., while the latter is a kind of extension of transaction data - or user defined data - that is related to specific business logic.
 
 
 # 6 Implement voting contract

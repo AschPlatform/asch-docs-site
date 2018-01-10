@@ -17,7 +17,7 @@ asch-cli -H <mainnet host> -P <mainnet port> -M registerdapp -e "<your secret>" 
 
 Here `dapp.json` is the meta information file generated when DApp is created.
 
-These two commands can be executed in any machine. As long as `host` and `port` are provided, register process can be finished from any remote node. The default values of `host` and `port` are `localhost` and `4096`, respectively.
+This two commands can be executed in any machine. As long as `host` and `port` are provided, register process can be finished on any remote node. The default values of `host` and `port` are `localhost` and `4096`, respectively.
 
 Notice: if registering to mainnet, do not forget to add `-M` parameter.
 

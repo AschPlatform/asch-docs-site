@@ -116,7 +116,7 @@ package.json            #
 public                  # this folders contains all front-end files
 routes.json             # this file contains the configuration of http route. If you want to add new interface, you need to revise this file.
 ```
-Don't worry about the complexity of the file structure, for the time being just having a first look is enough. 
+Don't worry about the complexity of the file structure, just have a general idea of it.
 
 All the esential files related to developers can be found in `modules/contracts/`
 
@@ -137,7 +137,7 @@ What developers need to do is to create new contact to run your business logic. 
 
 It is necessary to set the primary password that we used before in genesis block, as well as corresponding DApp ID, in `dapp` field of `config.json`.
 
-In the future when DApp is published in real network, it still needs a machine used to configure the primary password. NOTE: only one machine is required.
+In the future when DApp is published in real network, it still needs a machine configuring the primary password. NOTE: only one machine is required.
 
 ```
 "params": {

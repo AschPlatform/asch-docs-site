@@ -1,9 +1,10 @@
 menu:
   docs: Docs
   api: API
-  search: Search
   whitepaper: Whitepaper
   dapp: Dapp
+  help: Help
+  search: Search
 
 index:
   get_started: Get started
@@ -23,6 +24,12 @@ sidebar:
     delegate_forging: Delegate & forging
     command_line: Command line interface
     http: HTTP interface
+    issue_assets: Issue assets
+
+  whitepaper:
+    catalog: catalog
+    asch: Asch whitepaper
+    cctime: CCTime whitepaper
 
   dapp:
     basic: Basic
@@ -33,3 +40,10 @@ sidebar:
     mini_dao: 3. Mini DAO
     dice_game: 4. Dice game
     publish: 5. Publish
+
+  help:
+      catalog: catalog
+      asch: Asch F&Q
+      cctime: CCTime F&Q
+      xctAirdrop: CCTime Airdrop F&Q
+      pcwallet: pc wallet operating manual

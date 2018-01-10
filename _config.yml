@@ -17,11 +17,11 @@ highlight:
   enable: true
   line_number: false
 
-#algolia:
-#  en:
-#    api_key: c3d5d4c995b5e0c2ffb5623900279a66
-#    index_name: hexo
-#  zh-cn:
-#    api_key: cdea7d4e47d84f6145b77e7f68689f35
-#    index_name: hexo_zh-cn
+algolia:
+  en:
+    api_key: f5f22910bc3027dabc0b1bdafa88cb42
+    index_name: asch
+  zh-cn:
+    api_key: f5f22910bc3027dabc0b1bdafa88cb42
+    index_name: asch
 github: AschPlatform/asch

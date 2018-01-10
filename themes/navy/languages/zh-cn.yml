@@ -1,9 +1,11 @@
 menu:
   docs: 文档
   api: API
-  search: 搜索
   whitepaper: 白皮书
   dapp: Dapp开发
+  help: 常见问题
+  search: 搜索
+
 
 index:
   get_started: 开始使用
@@ -23,6 +25,12 @@ sidebar:
     delegate_forging: 受托人锻造及收益机制
     command_line: 命令行客户端
     http: HTTP接口
+    issue_assets: 发行资产
+
+  whitepaper:
+    catalog: 目录
+    asch: Asch 白皮书
+    cctime: CCTime 白皮书
 
   dapp:
     basic: 基础
@@ -33,3 +41,9 @@ sidebar:
     mini_dao: 3. Mini DAO
     dice_game: 4. Dice game
     publish: 5. 发布
+
+  help:
+    catalog: 目录
+    asch: Asch 问答
+    cctime: CCTime 问答
+    xctAirdrop: CCTime 空投问答
